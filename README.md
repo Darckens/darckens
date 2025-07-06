@@ -24,7 +24,7 @@ Driven by a strong interest in **health and data**, I aim to become a **biostati
       <strong><em>Programming & Data Engineering</em></strong><br><br>
       • Python (NumPy, Pandas, Matplotlib, Scikit-learn)<br>
       • R (RStudio, R Shiny)<br>
-      • SQL (PostgreSQL, SQLite? etc...), NoSQL<br>
+      • SQL (PostgreSQL, SQLite, etc...), NoSQL<br>
       • SAS, Java, HTML/CSS<br>
     </td>
     <td valign="top" width="33%">
