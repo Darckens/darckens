@@ -2,16 +2,12 @@
 
 Student in Data Science | Applied Mathematics & Statistics | Future Biostatistician
 
----
-
 ## **About Me**
 
 I am currently pursuing a Bachelor's degree in Data Science (B.U.T. Science des Données) at Sorbonne Paris North University.\
 My academic background combines applied mathematics, statistics, and computer science.
 
 Driven by a strong interest in **health and data**, I aim to become a **biostatistician**, using data to support medical decisions and improve patient outcomes. I enjoy working with real-world datasets, building predictive models, and turning complex data into actionable insights.
-
----
 
 ## **Technical Skills**
 
@@ -41,8 +37,6 @@ Driven by a strong interest in **health and data**, I aim to become a **biostati
   </tr>
 </table>
 
----
-
 ## **Education**
 
 - **Bachelor's degree in Data Science**, _Sorbonne Paris North University_\
@@ -52,16 +46,12 @@ Driven by a strong interest in **health and data**, I aim to become a **biostati
 
 - **French Baccalauréat**, Mathematics & Physics – _with high honours (2023)_
 
----
-
 ## **Socials**
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ibrahim-benkherfellah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
----
 
 ## **Tech Stack**
 
