@@ -37,15 +37,6 @@ Driven by a strong interest in **health and data**, I aim to become a **biostati
   </tr>
 </table>
 
-## **Education**
-
-- **Bachelor's degree in Data Science**, _Sorbonne Paris North University_\
-  Specialization : Statistical Exploration and Modeling (2024 – present)
-
-- **Double Bachelor's degree in Mathematics & Computer Science**, _University of Paris (2023 – 2024 - First Year)_
-
-- **French Baccalauréat**, Mathematics & Physics – _with high honours (2023)_
-
 ## **Socials**
 
 <div align="left">
